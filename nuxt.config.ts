@@ -21,4 +21,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
   ],
 
+  app: {
+    baseURL: "/sono-nuxt/",
+  },
 })
