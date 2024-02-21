@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Создать файл в корне .env и вставить переменную
+
+## .env => NUXT_PUBLIC_WEATHER_KEY=e745c00457cd1be09c8003c3783d3fbe
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -73,3 +77,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
